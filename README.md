@@ -19,7 +19,7 @@
 
 ## 🙋 Sobre mim
 
-- 💼 Jovem aprendiz desenvolvendo soluções reais pra empresas
+- 💼 assistente em sistema, desenvolvendo soluções reais pra empresas
 - 🏗️ Construo sistemas de gestão com Python, Flask e PostgreSQL
 - 📦 Apaixonado por resolver problemas práticos com código
 - 🚀 Sempre aprendendo e evoluindo no mundo do desenvolvimento
